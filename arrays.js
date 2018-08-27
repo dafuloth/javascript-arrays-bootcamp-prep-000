@@ -23,6 +23,10 @@ function accessElementInArray(array, index) {
   return array[index]
 }
 
-function destructivelyRemoveElementFromBeginningOfArray
-
-function destructivelyRemoveElementFromEndOfArray
+// function destructivelyRemoveElementFromBeginningOfArray(array) {
+//
+// }
+//
+// function destructivelyRemoveElementFromEndOfArray(array) {
+//
+// }
